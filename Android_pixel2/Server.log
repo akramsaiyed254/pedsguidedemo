@@ -1,0 +1,19 @@
+2022-09-29 09:43:20:320 [Appium] Welcome to Appium v1.22.3
+2022-09-29 09:43:20:320 [Appium] Non-default server args:
+2022-09-29 09:43:20:321 [Appium]   port: 6396
+2022-09-29 09:43:20:321 [Appium]   sessionOverride: true
+2022-09-29 09:43:20:321 [Appium]   logFile: /Users/mohammadakram.saiyed/Desktop/mohammadakram.saiyed/pedsguideold/PedsGuide/Android_pixel2/Server.log
+2022-09-29 09:43:20:336 [Appium] Appium REST http interface listener started on 0.0.0.0:6396
+2022-09-29 09:43:20:654 [HTTP] --> GET /wd/hub/status
+2022-09-29 09:43:20:654 [HTTP] {}
+2022-09-29 09:43:20:655 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2022-09-29 09:43:20:656 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.22.3"}}
+2022-09-29 09:43:20:659 [HTTP] <-- GET /wd/hub/status 200 4 ms - 68
+2022-09-29 09:43:20:659 [HTTP] 
+2022-09-29 09:43:20:662 [HTTP] --> GET /wd/hub/status
+2022-09-29 09:43:20:662 [HTTP] {}
+2022-09-29 09:43:20:663 [GENERIC] Calling AppiumDriver.getStatus() with args: []
+2022-09-29 09:43:20:663 [GENERIC] Responding to client with driver.getStatus() result: {"build":{"version":"1.22.3"}}
+2022-09-29 09:43:20:664 [HTTP] <-- GET /wd/hub/status 200 1 ms - 68
+2022-09-29 09:43:20:664 [HTTP] 
+2022-09-29 09:43:46:183 [Appium] Received SIGINT - shutting down
